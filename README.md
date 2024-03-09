@@ -1,3 +1,3 @@
-Download this file.
-extaract it to the folder you want to organize
-then delete the exe file. done 
+1. Download this file.
+2. extaract it to the folder you want to organize
+3. then delete the exe file. done 
