@@ -1,3 +1,3 @@
-1. Download this file https://drive.google.com/file/d/1U8EUCb8Ph7dggELqbJ045v8ERCJDgJ41/view?usp=sharing .
+1. Download this file https://github.com/ZiadHAsan/Directory-Organizer/blob/main/dir_org.exe
 2. extaract it to the folder you want to organize
-3. then delete the exe file. done 
+3. it's done
